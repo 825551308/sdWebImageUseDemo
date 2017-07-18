@@ -6,3 +6,4 @@
         self.showImageView.placeholderImageName = @"缺省图片名字（如不填写，会使用默认图片）";
         [self.showImageView showImageWithShowType:DeviceNetWorkShowWithThumbnail originalHttp:httpOriginal thumbnailHttp:httpThumbnail];
     }
+    
